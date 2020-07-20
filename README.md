@@ -1,0 +1,2 @@
+# FrameworkAutoTestsTask
+training project
